@@ -19,7 +19,15 @@ nav ul {
     width: 100%;
     padding-top: 80px;
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction:column-reverse;
+}
+
+.container2 img{
+    width: 100%;
+    padding-top: 20px;
+    display: flex;
+    flex-direction:column-reverse;
+    justify-content: space-between;
 }
 
 .container3 {
